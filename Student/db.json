@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "name": "Udaya",
+      "email": "udaya@gmail.com",
+      "mobile": 9994983354,
+      "city": "Chennai"
+    }
+  ],
+  "signup": [
+    {
+      "id": "52c1",
+      "name": "Shiva",
+      "email": "shiva@gmail.com",
+      "mobile": 8825792265,
+      "password": "Shivark"
+    },
+    {
+      "id": "34e3",
+      "name": "udaya",
+      "email": "udaya@gmail.com",
+      "mobile": 9994983354,
+      "password": "Udaya"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
